@@ -1,3 +1,11 @@
+
+<head>  
+  <meta name="description" content="Simple to configurable module for magento2">
+  <meta name="keywords" content="Magento 2,Magento,Extensions,Free Extension, Magento2 Developer">
+  <meta name="author" content="Darshan Modi">
+</head>
+
+
 # Darsh_SimpleToConfigurable
 Redirect Simple Product(Associated) To Configurable Product With Selected Options
 
