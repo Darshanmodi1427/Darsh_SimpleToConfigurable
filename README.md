@@ -28,11 +28,11 @@ I have 8 years of experiance as Magento Backend Developer with all type of custo
 - Speed Optimization
 
 I have a sound knowlege of Magebto 1 and Magento 2 Framework as a certified developer ( https://u.magento.com/certification/directory/dev/521846/ ) and want to provide good service and quality work as freelancer.
-<strong>
-Contact Info:
+<br/>
+<strong>Contact Info:</strong>
 - Name: Darshan Modi
 - Email: darshan.mcoder@gmail.com
 - Skype: darshan.mcoder
 - Mobile/Whatsapp: +91 8000672585
-</strong>
+
 Thanks :)
