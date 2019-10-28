@@ -30,8 +30,9 @@ I have 8 years of experiance as Magento Backend Developer with all type of custo
 I have a sound knowlege of Magebto 1 and Magento 2 Framework as a certified developer ( https://u.magento.com/certification/directory/dev/521846/ ) and want to provide good service and quality work as freelancer.
 
 Contact Info:
-	Name: Darshan Modi
-	Email: darshan.mcoder@gmail.com
-	Mobile/Whatsapp: +91 8000672585
+- Name: Darshan Modi
+- Email: darshan.mcoder@gmail.com
+- Skype: darshan.mcoder
+- Mobile/Whatsapp: +91 8000672585
 
 Thanks :)
